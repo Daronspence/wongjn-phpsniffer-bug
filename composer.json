@@ -1,0 +1,17 @@
+{
+    "name": "daron/test",
+    "authors": [
+        {
+            "name": "Daron Spence",
+            "email": "daronspence@gmail.com"
+        }
+    ],
+	"config": {
+		"vendor-dir": "stuff/vendor"
+	},
+    "require": {
+    },
+	"require-dev": {
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}
